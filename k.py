@@ -1,1 +1,2 @@
-print("boy")
+print("boys")
+print("and girls")
